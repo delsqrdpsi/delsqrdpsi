@@ -8,7 +8,7 @@
 
 [**videomemories.ai**](https://videomemories.ai) — turn photos into cinematic video stories with AI. $6K MRR at peak.
 
-[**drona.in**](https://drona.in) — whatsapp-native AI tutor. 100K+ users learned something new.
+[**getdrona.in**](https://getdrona.in) — whatsapp-native AI tutor. 100K+ users learned something new.
 
 [**taroo.ai**](https://taroo.ai) — creativity gym for kids. because imagination needs reps too.
 
