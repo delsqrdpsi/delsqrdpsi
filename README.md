@@ -12,6 +12,9 @@
 
 [**taroo.ai**](https://taroo.ai) — creativity gym for kids. because imagination needs reps too.
 
+**automated credit underwriting for agentic commerce** — coming soon... - how will BNPL look like for agentic commerce? built a privacy-preserving agent-to-agent communication over the AP3 protocol by Silence Laboratories
+
+
 <br>
 
 #### work
